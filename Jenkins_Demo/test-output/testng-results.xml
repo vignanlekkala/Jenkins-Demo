@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10806" started-at="2018-01-17T09:38:41Z" finished-at="2018-01-17T09:38:52Z">
+  <suite name="Suite" duration-ms="14299" started-at="2018-02-23T10:21:38Z" finished-at="2018-02-23T10:21:52Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10806" started-at="2018-01-17T09:38:41Z" finished-at="2018-01-17T09:38:52Z">
-      <class name="JenkinsDemo">
-        <test-method status="PASS" signature="open()[pri:0, instance:JenkinsDemo@51565ec2]" name="open" duration-ms="10792" started-at="2018-01-17T15:08:41Z" finished-at="2018-01-17T15:08:52Z">
+    <test name="Test" duration-ms="14299" started-at="2018-02-23T10:21:38Z" finished-at="2018-02-23T10:21:52Z">
+      <class name="Macys_Addcard">
+        <test-method status="PASS" signature="open()[pri:0, instance:Macys_Addcard@26be92ad]" name="open" duration-ms="14282" started-at="2018-02-23T15:51:38Z" finished-at="2018-02-23T15:51:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open -->
-      </class> <!-- JenkinsDemo -->
+      </class> <!-- Macys_Addcard -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

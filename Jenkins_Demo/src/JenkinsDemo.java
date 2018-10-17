@@ -37,8 +37,10 @@ public class JenkinsDemo {
 			element.click();
 			break;
 		 }
-				System.out.println("Hello");
+
 				
 			}
+		
+		driver.close();
 	}
 }
